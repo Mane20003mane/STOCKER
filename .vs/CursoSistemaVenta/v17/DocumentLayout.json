@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\cristiansal\\documents\\stocker\\034_cursosistemaventaescritorio-master\\034_cursosistemaventaescritorio-master\\capapresentacion\\modales\\mdacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\modales\\mdacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\modales\\mdproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\modales\\mdproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\modales\\mdcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\modales\\mdcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\frmnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D17BBD10-B03D-4126-ABFB-0B8B208C3E12}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mdAcercade.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Modales\\mdAcercade.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdAcercade.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Modales\\mdAcercade.cs",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdAcercade.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAArwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:12:46.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mdProveedor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Modales\\mdProveedor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdProveedor.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Modales\\mdProveedor.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdProveedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:08:19.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mdProducto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Modales\\mdProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdProducto.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Modales\\mdProducto.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdProducto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:08:18.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mdCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Modales\\mdCliente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdCliente.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Modales\\mdCliente.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:08:15.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mdAcercade.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Modales\\mdAcercade.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Modales\\mdAcercade.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Modales\\mdAcercade.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Modales\\mdAcercade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:08:03.051Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmProveedores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmProveedores.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmProveedores.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmProveedores.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\frmProveedores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:31:24.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmClientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmClientes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmClientes.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\frmClientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:28:42.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmCompras.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmCompras.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCompras.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmCompras.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\frmCompras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:28:11.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmNegocio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmNegocio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmNegocio.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmNegocio.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\frmNegocio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:26:43.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmProducto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmProducto.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmProducto.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\frmProducto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:25:08.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmUsuarios.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmUsuarios.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAmwB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:44:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Inicio.cs",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAUwI8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:44:13.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmUsuarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmUsuarios.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\frmUsuarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:41:16.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inicio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Inicio.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:28:26.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Login.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\Login.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:05:38.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmCategoria.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmCategoria.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmCategoria.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\frmCategoria.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:26:13.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmProducto.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmProducto.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmProducto.cs",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\frmProducto.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmProducto.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAcwEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:42:53.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\CRISTIANSAL\\Documents\\STOCKER\\034_CursoSistemaVentaEscritorio-master\\034_CursoSistemaVentaEscritorio-master\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-31T13:02:39.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
